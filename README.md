@@ -1,67 +1,87 @@
 <div align="center">
   <h1>Hey 👋 I'm Sumit Kumar Singh</h1>
-  <h3>Data Scientist 📊 | ML Engineer 🤖 | AI Agents 🧠 | LLMs 🔍</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00FFA2&center=true&vCenter=true&width=500&lines=Exploring+AI+Agents+and+LLMs;Building+Real-World+AI+Solutions;Learning%2C+Deploying%2C+Improving+%F0%9F%92%AA" alt="Typing SVG" />
+  <h3>AI Engineer ⚙️ | Data Scientist 📊 | LLMs & Agents 🧠</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+Intelligent+Systems+with+ML+%26+LLMs;Exploring+AI+Agents+and+RAG+Workflows;Automating+Real-World+Problems+with+AI;Deploying+End-to-End+ML+Solutions" alt="Typing animation" />
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 📍 Based in India | Passionate about applied AI  
-- 🧪 Working on projects involving AI Agents, LLMs, NLP, and Deep Learning  
-- 🧰 Strong knowledge of ML pipelines, Explainable AI (XAI), and RAG systems  
-- 🌱 Currently learning: advanced memory architectures, agentic workflows, and scalable ML  
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI & Machine Learning
-- **LLM-Powered AI Agent Crew** – Modular agent setup with CrewAI using Long/Short/Entity Memory  
-- **Seq2Seq Text Summarizer** – Keras-based attention-driven model for abstractive summarization  
-- **Kaggle Expert Models** – Feature engineering + ensemble models on real datasets  
-- **Explainable Models** – SHAP-based analysis on tree models and neural nets  
-
-### 📊 Data Science & Analytics
-- **EDA Pipelines** – Auto EDA + visualization using Pandas, Seaborn, and Plotly  
-- **Customer Segmentation (Unsupervised)** – KMeans + PCA visual dashboards  
-- **Time-Series Forecasting** – LSTM-based models for sales and trend predictions  
+🎯 I’m a **Data Scientist & Machine Learning Engineer** focused on building AI systems that learn, reason, and act.  
+🧠 Skilled in **LLMs, AI Agents, NLP, Deep Learning, and ML Pipelines**.  
+📍 Based in India | Passionate about **explainability**, **RAG**, and **agentic workflows**.  
+🌱 Currently exploring: CrewAI, memory architectures, and scalable deployment.  
+🔬 I love transforming research into real-world applications.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🔬 Areas of Expertise
 
-### 👨‍💻 Languages & Libraries  
+- 🤖 **Machine Learning**: Regression, Classification, Feature Engineering, Model Evaluation  
+- 🧠 **Deep Learning**: CNNs, LSTMs, Attention Models, Sequence-to-Sequence  
+- 💬 **NLP & LLMs**: Transformers, RAG, Tokenization, Prompt Engineering  
+- 🧩 **AI Agents**: Multi-agent collaboration with memory (CrewAI, LangGraph)  
+- 📊 **Data Analytics**: EDA, Visualizations, Segmentation, Time-Series  
+- 🛠️ **MLOps/Deployment**: Model packaging, API deployment, Streamlit dashboards  
+
+---
+
+## 🚀 Notable Projects
+
+### 🤖 LLMs & AI Agents
+- **🧠 RAG-Powered Agent System**  
+  CrewAI setup using Entity & LongTerm memory for contextual task-solving.
+  
+- **📝 Text Summarization Model (Seq2Seq + Attention)**  
+  Built using TensorFlow/Keras for abstractive document summarization.
+
+### 📊 Data Science & ML
+- **📈 Sales Forecasting with LSTMs**  
+  Real-time prediction pipeline for multivariate time series.
+
+- **🧮 ML Model Zoo (Kaggle Notebooks)**  
+  End-to-end projects with feature selection, ensembling, and evaluation.
+
+- **📉 Customer Segmentation via Clustering**  
+  Unsupervised learning using PCA, KMeans, DBSCAN.
+
+---
+
+## 🧰 Tech Stack
+
+### 🔧 Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 💡 AI/LLM & Agent Frameworks  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-yellow?style=flat-square)  
-![CrewAI](https://img.shields.io/badge/CrewAI-Agents-blueviolet?style=flat-square)  
+### 🧠 Frameworks & Platforms  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-yellow?style=flat-square)  
+![CrewAI](https://img.shields.io/badge/CrewAI-Agents-6F42C1?style=flat-square)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### 🛠️ Databases & Tools  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### 🗄️ Storage & Tools  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔗 Let's Connect
+## 🌐 Let's Connect
 
-- 📧 Email: sumit.datasci@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/sumitkumarsingh](https://www.linkedin.com/in/your-profile/)  
 - 🐙 GitHub: [@sumitkumarsingh](https://github.com/your-username)  
-- 💼 LinkedIn: [linkedin.com/in/sumitkumarsingh](https://www.linkedin.com/in/your-profile/)  
-- 🌐 Portfolio: Coming soon!  
+- ✉️ Email: sumit.datasci@gmail.com  
+- 🌱 Portfolio: _coming soon_
 
 ---
 
-## 💡 Dev Quote
+## 💬 Quote I Live By
 
-> _“Code what you can’t find. Automate what you do twice.”_
+> _"AI is not just the future — it's the toolkit for solving today's hardest problems."_  
 
 ---
 
-Let me know if you'd like me to generate the full `README.md` file or want it adapted for a portfolio site.
+Would you like me to generate this into a `README.md` file for direct use in your GitHub profile repo?
