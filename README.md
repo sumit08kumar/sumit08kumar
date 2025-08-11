@@ -82,6 +82,3 @@
 
 > _"AI is not just the future — it's the toolkit for solving today's hardest problems."_  
 
----
-
-Would you like me to generate this into a `README.md` file for direct use in your GitHub profile repo?
